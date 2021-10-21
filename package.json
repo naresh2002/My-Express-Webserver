@@ -1,0 +1,22 @@
+{
+  "name": "my-express-webserver",
+  "version": "1.0.0",
+  "description": "Simple Express Webserver",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naresh2002/My-Express-Webserver.git"
+  },
+  "author": "Naresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naresh2002/My-Express-Webserver/issues"
+  },
+  "homepage": "https://github.com/naresh2002/My-Express-Webserver#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
